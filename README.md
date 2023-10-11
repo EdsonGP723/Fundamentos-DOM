@@ -6,4 +6,4 @@
 
 [Práctica 1](dom.js)
 
-[Página]()
+[Página](https://edsongp723.github.io/Fundamentos-DOM/)
