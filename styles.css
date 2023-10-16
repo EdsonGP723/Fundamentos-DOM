@@ -1,0 +1,68 @@
+:root {
+    --main-colortext: rgb(252, 175, 23);
+    --accent-colortext: rgb(57, 92, 170);
+    --hover-colortext: rgb(73, 201, 242);
+  }
+  
+  html {
+    font-family: "Josefin Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
+    font-family: "Poiret One", cursive;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .paddingLR {
+    padding-left: 20px;
+    padding-right: 20px;
+    vertical-align: top;
+  }
+  
+  .nav {
+    background-color: rgb(68, 68, 68);
+    height: 60px;
+    padding-top: 20px;
+  }
+  
+  .dark-mode {
+    background-color: #222;
+    color: #eee;
+  }
+  
+  .ocean-mode {
+    background-color: darkblue;
+    color: cyan;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .textCenter {
+    text-align: center;
+  }
+  
+  .btn {
+    padding: 10px;
+    width: 150px;
+  }
+  
+  .col4 {
+    columns: 4;
+  }
+  
+  .h2 {
+    font-size: 22px;
+  }
+  
+  .navLink
+  {
+    color: #eee;
+  }
