@@ -5,6 +5,7 @@
 ### Parcial 3
 
 [Práctica 1](dom.js)
+
 [Práctica 2](dom.js)
 
 [Página](https://edsongp723.github.io/Fundamentos-DOM/)
