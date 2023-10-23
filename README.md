@@ -8,4 +8,6 @@
 
 [Práctica 2](dom.js)
 
+[Práctica 3](dom.js)
+
 [Página](https://edsongp723.github.io/Fundamentos-DOM/)
