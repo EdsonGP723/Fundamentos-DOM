@@ -10,4 +10,10 @@
 
 [Práctica 3](dom.js)
 
+[Práctica 4](dom.js)
+
+[Práctica 5](dom.js)
+
+[Práctica 6](dom.js)
+
 [Página](https://edsongp723.github.io/Fundamentos-DOM/)
