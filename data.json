@@ -1,0 +1,29 @@
+{
+    "materias": [
+        {
+            "nombre": "Desarrollo de Aplicaciones Móviles",
+            "docente": "Diana Rodriguez",
+            "descripcion": "En esta materia estamos aprendiendo formas de mojorar las interfaces y la experiencia de usuario para proyectos anteriores que hemos tenido y mejorarlos con lo aprendido en esta materia."
+        },
+        {
+            "nombre": "Desarrollo Para Aplicaciones Web",
+            "docente": "Jonathan MirCha",
+            "descripcion": "En esta materia se esta aprendiendo a como armar una pagina web desde cero y las diferentes formas que tenemos de hacer las cosas."
+        },
+        {
+            "nombre": "Proyecto Semestral",
+            "docente": "Rodrigo Saco",
+            "descripcion": "En esta materia en equipos estamos desarrollando un videojuego en VR y cada uno tiene un rol diferente dentro de este"
+        },
+        {
+            "nombre": "Simulación Física Para Realidad Virtual y Videojuegos",
+            "docente": "Ricardo Rodríguez",
+            "descripcion": "En esta materia estamos trabajando en formas de simular las fisicas que tendrian los objetos en el mundo real adaptado a videojuegos"
+        },
+        {
+            "nombre": "Técnicas de Inteligencia Artificial Para Videojuegos",
+            "docente": "Juan José López Banyo",
+            "descripcion": "En esta materia estamos viendo los diferentes comportamientos de npcs o de objetos y como simularlos y efectuarlos en codigo"
+        }
+    ]
+}

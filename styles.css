@@ -108,3 +108,10 @@
   .textRed{
     color: red;
   }
+
+  @media only screen and (min-width: 992px) {
+    .myCard{
+        width: 18rem !important;
+        margin-left: 500px !important;
+    }
+}
