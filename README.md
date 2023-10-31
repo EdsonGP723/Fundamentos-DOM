@@ -16,4 +16,6 @@
 
 [Práctica 6](dom.js)
 
+[Práctica 7](API.js)
+
 [Página](https://edsongp723.github.io/Fundamentos-DOM/)
